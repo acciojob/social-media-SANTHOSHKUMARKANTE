@@ -1,0 +1,24 @@
+.users-container {
+    padding: 20px;
+  }
+  
+  .users-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user-item {
+    padding: 10px;
+    background: #f8f9fa;
+    margin: 5px 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .user-item:hover {
+    background: #e2e6ea;
+  }
+  .buttonlist{
+    margin: 10px;
+  }
+  

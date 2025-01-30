@@ -1,0 +1,28 @@
+.create-post-container {
+    padding: 20px;
+  }
+  
+  #postAuthor, #postContent {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .button {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .button:hover {
+    background: #0056b3;
+  }
+  
